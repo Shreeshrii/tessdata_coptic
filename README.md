@@ -16,10 +16,6 @@ These traineddata files were created in response to a request in [tesseract-ocr 
   'FreeSerifCopt' \
   'FreeSerifPishoi' \
   'IFAO-Grec Unicode' \
-  'New Athena Unicode' \
-  'Nilus Semi-Condensed' \
-  'Noto Sans Coptic' \
-  'Segoe UI Historic' \
   'Symbola Semi-Condensed' \
   
   ## [Image used for testing](https://imgur.com/a/ILRw6vm)
