@@ -20,7 +20,7 @@ These traineddata files were created in response to a request in [tesseract-ocr 
   
   ## [Image used for testing with v1 cop.traineddata](https://imgur.com/a/ILRw6vm)
   
-  ![coptic](https://user-images.githubusercontent.com/5095331/40931402-926f5702-6848-11e8-8a7c-413213b090db.png)
+  <img src="https://user-images.githubusercontent.com/5095331/40931402-926f5702-6848-11e8-8a7c-413213b090db.png" width="60%">
   
   ## Recognized text with v1 cop.traineddata
 
@@ -39,7 +39,7 @@ These traineddata files were created in response to a request in [tesseract-ocr 
 
  ## Image used for testing with v2 cop.traineddata
  
- ![sophia_0154](https://user-images.githubusercontent.com/5095331/40931444-bc57275c-6848-11e8-8f48-b036698ceac7.png)
+ <img src="https://user-images.githubusercontent.com/5095331/40931444-bc57275c-6848-11e8-8f48-b036698ceac7.png" width="60%">
  
    ## Recognized text with v2 cop.traineddata (--oem 1 --psm 6)
 
