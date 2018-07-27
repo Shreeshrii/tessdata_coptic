@@ -1,0 +1,20 @@
+  'Antinoou' \
+  'FreeSerif' \
+  'FreeSerif Bold' \
+  'FreeSerifAthanasius' \
+  'FreeSerifAvvaShenouda' \
+  'FreeSerifCopt' \
+  'FreeSerifCopticMS' \
+  'FreeSerifCoptoMS' \
+  'FreeSerifKoptosMS' \
+  'FreeSerifPishoi' \
+  'IFAO-Grec Unicode' \
+  'IFAO-Grec Unicode Bold' \
+  'New Athena Unicode' \
+  'New Athena Unicode Bold' \
+  'New Athena Unicode Bold Italic' \
+  'New Athena Unicode Italic' \
+  'Nilus Semi-Condensed' \
+  'Segoe UI Historic' \
+  'Segoe UI Symbol' \
+  'Symbola Semi-Condensed' \
